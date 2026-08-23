@@ -1,0 +1,4 @@
+Material,Minimum Peak Load (kN),Maximum Peak Load (kN),Minimum Duration (s),Maximum Duration (s)
+Steel 4140,86.0,106.0,90,120
+Aluminum 6061,42.0,56.0,90,120
+Copper C110,32.0,45.0,90,120
